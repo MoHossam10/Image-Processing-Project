@@ -27,6 +27,8 @@ o Uniform noise.
 
 
 For the Transform /Frequency Domain filters: 
+
+
 • Histogram Equalization. 
 • Histogram Specification. 
 • Fourier transform (forward and Inverse). 
